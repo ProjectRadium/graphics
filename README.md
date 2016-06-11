@@ -1,2 +1,2 @@
 # Graphics
-Graphics for Project Radon
+Graphics for Project Radium
